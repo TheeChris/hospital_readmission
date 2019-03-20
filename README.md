@@ -36,7 +36,7 @@ Table of Contents
 
 **Random Forest Bag-of-Words ROC Curve and Confusion Matrix**
 
-![ROC Curve](C:\Users\echri\Desktop\projects\hospital_readmission\reports\figures\rf_undersample_roc_curve.PNG)
+![ROC Curve](reports/figures/rf_undersample_roc_curve.PNG)
 
-![Confusion Matrix](C:\Users\echri\Desktop\projects\hospital_readmission\reports\figures\rf_undersample_confusion_matrix.png)
+![Confusion Matrix](reports/figures/rf_undersample_confusion_matrix.png)
 
